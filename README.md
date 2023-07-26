@@ -91,6 +91,6 @@ Follow the steps below to set up the local environment for `starwarapi`:
 
 Once the setup is complete, you can access the Star War Api application by opening your web browser and navigating to the following URL:
 
-[Swagger API Documentation](http://{host:port}/api/documentation)
+[Swagger API Documentation](http://localhost:3000/api/documentation)
 
 Here, you can explore and test the RESTful API endpoints provided by the application.
